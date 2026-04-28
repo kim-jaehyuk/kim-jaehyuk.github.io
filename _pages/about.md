@@ -56,10 +56,14 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 ## Honors and Awards
 
+<br>
+
+## Honors and Awards
+
 * **Edward P. Fitts Fellowship**, Dept. of ISE, NCSU, 2023
-    * <small>*Highly competitive, fully funded fellowship recognizing outstanding research potential.*</small>
+    * <small>*Highly competitive, fully funded fellowship for academic excellence and research potential.*</small>
 * **Edward P. Fitts Fellowship**, Dept. of ISE, NCSU, 2022
-    * <small>*Highly competitive, fully funded fellowship recognizing outstanding research potential.*</small>
+    * <small>*Highly competitive, fully funded fellowship for academic excellence and research potential.*</small>
 * **Full Academic Excellence Scholarship**, Chung-Ang University, 2019
     * <small>*Awarded for ranking 1st in the department.*</small>
 * **Full Academic Excellence Scholarship**, Chung-Ang University, 2018
