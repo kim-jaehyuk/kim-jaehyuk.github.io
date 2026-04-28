@@ -7,15 +7,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
-  address: >
-    <p style="margin-top: 10px; margin-bottom: 5px;"><b>Jaehyuk Kim</b></p>
-    <p style="font-size: 0.9rem; margin: 0;">Ph.D. Candidate in ISE</p>
-    <p style="font-size: 0.9rem; margin: 0;">NC State University</p>
-    <hr style="margin: 10px 0; border-top: 1px solid #ddd;">
-    <p style="font-size: 0.9rem; margin: 0;">
-      <i class="fas fa-map-marker-alt"></i> Raleigh, NC<br>
-      <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jaehyuk-kim-486a7b227/" target="_blank">LinkedIn</a>
-    </p>
+  address: "<b>Jaehyuk Kim</b><br><small>Ph.D. Candidate in ISE</small><br><small>NC State University</small><hr style='margin:8px 0;'><small><i class='fas fa-map-marker-alt'></i> Raleigh, NC<br><i class='fab fa-linkedin'></i> <a href='https://www.linkedin.com/in/jaehyuk-kim-486a7b227/' target='_blank'>LinkedIn</a></small>"
 ---
 
 <style>
