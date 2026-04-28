@@ -18,6 +18,8 @@ profile:
     </div>
 ---
 
+<div style="overflow: hidden;">
+  
 # About Me
 
 My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization problems under uncertainty**. I specialize in sequential decision-making problems, which are formulated as complex two- and multi-stage Mixed-Integer Linear Programs (MILPs).
@@ -36,3 +38,5 @@ My research approach is rooted in **adaptive robust optimization** theory. I dev
 * **M.S.** in Industrial Management Engineering, **Korea University**, 2022
 * **B.S.** in Mechanical Engineering, **Chung-Ang University**, 2019
 * **B.S.** in Electrical and Electronics Engineering (Double Major), **Chung-Ang University**, 2019
+
+</div>
