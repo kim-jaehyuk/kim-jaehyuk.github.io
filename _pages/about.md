@@ -1,23 +1,21 @@
 ---
 layout: about
-title: Main
+title: Jaehyuk Kim
 permalink: /
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
-  address: |
-    <div style="margin-top: 15px; line-height: 1.5; text-align: left;">
-      <span style="font-size: 1.2rem; font-weight: bold;">Jaehyuk Kim</span><br>
-      <span style="font-size: 0.9rem; color: #666;">Ph.D. Candidate in ISE</span>
-      <hr style="margin: 10px 0; border: 0; border-top: 1px solid #eee;">
-      <div style="font-size: 0.9rem;">
-        <i class="fas fa-map-marker-alt"></i> Raleigh, NC<br>
-        <i class="fas fa-university"></i> NC State University<br>
-        <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jaehyuk-kim-486a7b227/" target="_blank">LinkedIn</a>
-      </div>
-    </div>
+  address: >
+    <p style="margin-top: 10px; margin-bottom: 5px;"><b>Jaehyuk Kim</b></p>
+    <p style="font-size: 0.9rem; margin: 0;">Ph.D. Candidate in ISE</p>
+    <p style="font-size: 0.9rem; margin: 0;">NC State University</p>
+    <hr style="margin: 10px 0; border-top: 1px solid #ddd;">
+    <p style="font-size: 0.9rem; margin: 0;">
+      <i class="fas fa-map-marker-alt"></i> Raleigh, NC<br>
+      <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jaehyuk-kim-486a7b227/" target="_blank">LinkedIn</a>
+    </p>
 ---
 
 <style>
