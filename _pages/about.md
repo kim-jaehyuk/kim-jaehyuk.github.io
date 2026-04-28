@@ -46,21 +46,13 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 ## Current Projects
 
-* Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach
-* Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Integrated Approach
-* Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A decision-focused learning Approach
+* **Jaehyuk Kim**, O. Y. Özaltın, M. E. Mayorga, and M. Bodur. "**Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach.**" Working Paper.
+* **Jaehyuk Kim** and O. Y. Özaltın. "**Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Integrated Approach.**" In Preparation.
+* **Jaehyuk Kim** and O. Y. Özaltın. "**Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A decision-focused learning Approach.**" In Preparation.
   
 <br>
 
-## Current Projects
-
-* **Jaehyuk Kim**, O. Y. Özaltın, M. E. Mayorga, and M. Bodur. "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach." 
-* **Jaehyuk Kim** and O. Y. Özaltın. "Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Integrated Approach."
-* **Jaehyuk Kim** and O. Y. Özaltın. "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A decision-focused learning Approach."
-  
-<br>
-
-## Conference Presentations
+## Conferences & Proceedings
 
 * **Jaehyuk Kim**, O. Y. Özaltın, M. E. Mayorga, and M. Bodur (2025). "Shelter Location and Evacuation Planning under Demand Uncertainty: An Adaptive Robust Optimization Approach." *INFORMS Annual Meeting 2025*. 
 * A. Abu Orabi, **Jaehyuk Kim**, A. R. Escobedo, and O. Y. Özaltın (2025). "Data-Driven Solutions for Waste Material Composition Prediction: Bridging Industrial Engineering and Sustainability." *Proceedings of the IISE Annual Conference & Expo 2025*.
