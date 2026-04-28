@@ -20,7 +20,7 @@ profile:
 
 <h1 style="margin-top: 0; padding-top: 0;">About Me</h1>
 
-I am a Ph.D. candidate in the Department of Industrial and Systems Engineering at North Carolina State University, working under the supervision of Professor <a href="https://www.ise.ncsu.edu/people/oyozalti/" target="_blank">Osman Ozaltin</a>. My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization** problems under uncertainty. I specialize in sequential decision-making problems within the **adaptive robust optimization** framework, which are formulated as complex two- and multi-stage **Mixed-Integer Linear Programs (MILPs)**. I develop **exact algorithms** and **ML-augmented methodologies** to overcome the computational intractability inherent in these models, applying them to complex societal systems where system resilience and operational efficiency are paramount.
+I am a Ph.D. candidate in the Department of Industrial and Systems Engineering at North Carolina State University, working under the supervision of Professor <a href="https://www.ise.ncsu.edu/people/oyozalti/" target="_blank">Osman Ozaltin</a>. My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization** problems under uncertainty. I specialize in **sequential decision-making** problems within the **adaptive robust optimization** framework, which are formulated as complex two- and multi-stage **Mixed-Integer Linear Programs (MILPs)**. I develop **exact algorithms** and **ML-augmented methodologies** to overcome the computational intractability inherent in these models, applying them to complex societal systems where system resilience and operational efficiency are paramount.
 
 <br>
 
