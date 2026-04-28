@@ -1,30 +1,33 @@
 ---
 layout: about
-title: Jaehyuk Kim
+title: Main
 permalink: /
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
-  address: "<b>Jaehyuk Kim</b><br><small>Ph.D. Candidate in ISE</small><br><small>NC State University</small><hr style='margin:8px 0;'><small><i class='fas fa-map-marker-alt'></i> Raleigh, NC<br><i class='fab fa-linkedin'></i> <a href='https://www.linkedin.com/in/jaehyuk-kim-486a7b227/' target='_blank'>LinkedIn</a></small>"
+  address: >
+    <div style="margin-top: 15px; line-height: 1.5; text-align: left;">
+      <b style="font-size: 1.15rem;">Jaehyuk Kim</b><br>
+      <span style="font-size: 0.9rem; color: #666;">Ph.D. Candidate in ISE</span><br>
+      <span style="font-size: 0.9rem; color: #666;">NC State University</span>
+      <hr style="margin: 10px 0; border: 0; border-top: 1px solid #eee;">
+      <div style="font-size: 0.9rem;">
+        <i class="fas fa-map-marker-alt"></i> Raleigh, NC<br>
+        <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jaehyuk-kim-486a7b227/" target="_blank">LinkedIn</a>
+      </div>
+    </div>
 ---
 
 <style>
-  /* 사진 위에 뜨던 중복 이름과 부제목을 숨깁니다 */
+  /* 상단 기본 제목 영역을 숨깁니다 */
   .post-header { display: none; }
-  
-  /* 표가 깨지지 않도록 강제로 한 줄 유지를 명령합니다 */
-  table { width: 100% !important; }
-  td, th { white-space: nowrap; padding: 10px 15px !important; }
-  td:nth-child(2) { white-space: normal; } /* Major 칸만 줄바꿈 허용 */
 </style>
 
-<div style="display: block; overflow: hidden; padding-left: 25px;" markdown="1">
+<div style="display: block; overflow: hidden; padding-left: 30px;" markdown="1">
 
-<br>
-
-# About Me
+<h1 style="margin-top: 0; padding-top: 0;">About Me</h1>
 
 My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization problems under uncertainty**. I specialize in sequential decision-making problems, which are formulated as complex two- and multi-stage Mixed-Integer Linear Programs (MILPs).
 
