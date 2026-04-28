@@ -20,9 +20,7 @@ profile:
 
 <h1 style="margin-top: 0; padding-top: 0;">About Me</h1>
 
-My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization problems under uncertainty**. I specialize in sequential decision-making problems, which are formulated as complex two- and multi-stage Mixed-Integer Linear Programs (MILPs).
-
-My research approach is rooted in **adaptive robust optimization** theory. I develop innovative methodologies, including **machine learning (ML)-integrated approaches**, to effectively tackle the complexity of these problems. I apply these methodologies to improve sequential decision-making in complex societal systems where operational efficiency is paramount.
+My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization** problems under uncertainty. I specialize in sequential decision-making problems within the **adaptive robust optimization** framework, which are formulated as complex two- and multi-stage **Mixed-Integer Linear Programs (MILPs)**. I develop **exact algorithms** and **ML-augmented methodologies** to overcome the computational intractability inherent in these models, applying them to complex societal systems where system resilience and operational efficiency are paramount.
 
 <br>
 
@@ -30,7 +28,7 @@ My research approach is rooted in **adaptive robust optimization** theory. I dev
 
 * Sequential Decision-Making under Uncertainty
 * Robust/Stochastic Optimization
-* Large-scale Optimization
+* Large-scale Combinatorial Optimization 
 * ML-Augmented Optimization
 
 <br>
