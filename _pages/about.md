@@ -18,7 +18,7 @@ profile:
     </div>
 ---
 
-<div style="display: block; overflow: hidden;" markdown="1">
+<div style="display: block; overflow: hidden; padding-left: 40px;" markdown="1">
 
 <br>
 
