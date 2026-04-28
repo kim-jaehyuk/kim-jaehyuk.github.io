@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Main
 permalink: /
 
 subtitle: Ph.D. Candidate in Industrial and Systems Engineering
