@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Main
+title: Jaehyuk Kim
 permalink: /
 
 profile:
