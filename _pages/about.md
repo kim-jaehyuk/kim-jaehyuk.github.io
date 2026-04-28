@@ -50,14 +50,6 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 <br>
 
-## Honors & Awards
-
-<br>
-
-## Honors and Awards
-
-<br>
-
 ## Honors and Awards
 
 * **Edward P. Fitts Fellowship**, Dept. of ISE, NCSU, 2023
