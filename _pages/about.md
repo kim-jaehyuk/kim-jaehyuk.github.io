@@ -37,10 +37,10 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 | Degree | Major | Institution | Year |
 | :--- | :--- | :--- | :--- |
-| **Ph.D.** | Industrial and Systems Engineering<br><small>(Minor: Operations Research)</small> | **NC State University** | 2027 (Exp.) |
-| **M.S.** | Industrial Management Engineering | **Korea University** | 2022 |
-| **B.S.** | Mechanical Engineering | **Chung-Ang University** | 2019 |
-| **B.S.** | Electrical and Electronics Engineering | **Chung-Ang University** | 2019 |
+| **Ph.D.** | Industrial and Systems Engineering<br><small>(Minor: Operations Research)</small> | NC State University | 2027 (Exp.) |
+| **M.S.** | Industrial Management Engineering | Korea University | 2022 |
+| **B.S.** | Mechanical Engineering | Chung-Ang University | 2019 |
+| **B.S.** | Electrical and Electronics Engineering | Chung-Ang University | 2019 |
 
 <br>
 
