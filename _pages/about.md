@@ -19,24 +19,26 @@ profile:
 ---
 
 <div style="overflow: hidden;">
-  
-# About Me
+<br> # About Me
 
 My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization problems under uncertainty**. I specialize in sequential decision-making problems, which are formulated as complex two- and multi-stage Mixed-Integer Linear Programs (MILPs).
 
 My research approach is rooted in **adaptive robust optimization** theory. I develop innovative methodologies, including **machine learning (ML)-integrated approaches**, to effectively tackle the complexity of these problems. I apply these methodologies to improve sequential decision-making in complex societal systems where operational efficiency is paramount.
 
 ## Research Interests
+
 * Sequential Decision-Making under Uncertainty
 * Robust/Stochastic Optimization
 * Large-scale Optimization
 * ML-Augmented Optimization
 
 ## Education
-* **Ph.D.** in Industrial and Systems Engineering, **NC State University**, 2027 (Expected)
-    * *Minor in Operations Research*
-* **M.S.** in Industrial Management Engineering, **Korea University**, 2022
-* **B.S.** in Mechanical Engineering, **Chung-Ang University**, 2019
-* **B.S.** in Electrical and Electronics Engineering (Double Major), **Chung-Ang University**, 2019
+
+| Degree | Major | Institution | Year |
+| :--- | :--- | :--- | :--- |
+| **Ph.D.** | Industrial and Systems Engineering<br>(Minor: Operations Research) | **NC State University** | 2027 (Exp.) |
+| **M.S.** | Industrial Management Engineering | **Korea University** | 2022 |
+| **B.S.** | Mechanical Engineering | **Chung-Ang University** | 2019 |
+| **B.S.** | Electrical and Electronics Engineering | **Chung-Ang University** | 2019 |
 
 </div>
