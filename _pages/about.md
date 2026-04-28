@@ -2,34 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+subtitle: Ph.D. Candidate in Industrial and Systems Engineering
 
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false 
   address: >
-    <p>Department of Industrial and Systems Engineering</p>
-    <p>North Carolina State University</p>
-    <p>Raleigh, NC 27695</p>
+    <div style="font-size: 0.95rem; margin-top: 10px; line-height: 1.6;">
+      <i class="fas fa-map-marker-alt"></i> Raleigh, NC<br>
+      <i class="fas fa-university"></i> NC State University<br>
+      <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jaehyuk-kim-486a7b227/" target="_blank">LinkedIn</a><br>
+      <i class="ai ai-google-scholar"></i> <a href="#" target="_blank">Google Scholar</a>
+    </div>
 ---
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+# About Me
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+My research centers on developing efficient and scalable algorithms for **large-scale combinatorial optimization problems under uncertainty**. I specialize in sequential decision-making problems, which are formulated as complex two- and multi-stage Mixed-Integer Linear Programs (MILPs).
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+My research approach is rooted in **adaptive robust optimization** theory. I develop innovative methodologies, including **machine learning (ML)-integrated approaches**, to effectively tackle the complexity of these problems. I apply these methodologies to improve sequential decision-making in complex societal systems where operational efficiency is paramount.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Research Interests
+* Sequential Decision-Making under Uncertainty
+* Robust/Stochastic Optimization
+* Large-scale Optimization
+* ML-Augmented Optimization
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Education
+* **Ph.D.** in Industrial and Systems Engineering, **NC State University**, 2027 (Expected)
+    * *Minor in Operations Research*
+* **M.S.** in Industrial Management Engineering, **Korea University**, 2022
+* **B.S.** in Mechanical Engineering, **Chung-Ang University**, 2019
+* **B.S.** in Electrical and Electronics Engineering (Double Major), **Chung-Ang University**, 2019
