@@ -8,15 +8,22 @@ subtitle: Ph.D. Candidate in Industrial and Systems Engineering
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false 
+  image_circular: false
   address: >
-    <div style="font-size: 0.95rem; margin-top: 10px; line-height: 1.6;">
-      <i class="fas fa-map-marker-alt"></i> Raleigh, NC<br>
-      <i class="fas fa-university"></i> NC State University<br>
-      <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jaehyuk-kim-486a7b227/" target="_blank">LinkedIn</a><br>
-      <i class="ai ai-google-scholar"></i> <a href="#" target="_blank">Google Scholar</a>
+    <div style="margin-top: 15px; line-height: 1.4;">
+      <span style="font-size: 1.3rem; font-weight: bold;">Jaehyuk Kim</span><br>
+      <span style="font-size: 0.95rem; color: #666;">Ph.D. Candidate in ISE</span>
+      <hr style="margin: 10px 0;"> <div style="font-size: 0.95rem;">
+        <i class="fas fa-map-marker-alt"></i> Raleigh, NC<br>
+        <i class="fas fa-university"></i> NC State University<br>
+        <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/jaehyuk-kim-486a7b227/" target="_blank">LinkedIn</a>
+      </div>
     </div>
 ---
+
+<style>
+  .post-header { display: none; }
+</style>
 
 <div style="display: block; overflow: hidden; padding-left: 40px;" markdown="1">
 
