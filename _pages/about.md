@@ -44,4 +44,16 @@ My research approach is rooted in **adaptive robust optimization** theory. I dev
 | **B.S.** | Mechanical Engineering | **Chung-Ang University** | 2019 |
 | **B.S.** | Electrical and Electronics Engineering | **Chung-Ang University** | 2019 |
 
+<br>
+
+## Working Papers
+
+* blah
+
+<br>
+
+## Honors & Awards
+
+* blah
+
 </div>
