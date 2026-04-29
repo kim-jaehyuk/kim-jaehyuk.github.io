@@ -46,16 +46,16 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 ## Current Projects
 
-* **Jaehyuk Kim**, O. Y. Özaltın, M. E. Mayorga, and M. Bodur, Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach, Working Paper.
-* **Jaehyuk Kim** and O. Y. Özaltın, Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Integrated Approach, In Preparation.
-* **Jaehyuk Kim** and O. Y. Özaltın, Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A decision-focused learning Approach, In Preparation.
+* **Jaehyuk Kim**, O. Y. Özaltın, M. E. Mayorga, and M. Bodur, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Working Paper.
+* **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Integrated Approach", In Preparation.
+* **Jaehyuk Kim** and O. Y. Özaltın, "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A decision-focused learning Approach", In Preparation.
   
 <br>
 
 ## Conferences & Proceedings
 
-* **Jaehyuk Kim**, O. Y. Özaltın, M. E. Mayorga, and M. Bodur, Shelter Location and Evacuation Planning under Demand Uncertainty: An Adaptive Robust Optimization Approach, *INFORMS Annual Meeting 2025*. 
-* A. Abu Orabi, **Jaehyuk Kim**, A. R. Escobedo, and O. Y. Özaltın, Data-Driven Solutions for Waste Material Composition Prediction: Bridging Industrial Engineering and Sustainability, *Proceedings of the IISE Annual Conference & Expo 2025*.
+* **Jaehyuk Kim**, O. Y. Özaltın, M. E. Mayorga, and M. Bodur, "Shelter Location and Evacuation Planning under Demand Uncertainty: An Adaptive Robust Optimization Approach", *INFORMS Annual Meeting 2025*. 
+* A. Abu Orabi, **Jaehyuk Kim**, A. R. Escobedo, and O. Y. Özaltın, "Data-Driven Solutions for Waste Material Composition Prediction: Bridging Industrial Engineering and Sustainability", *Proceedings of the IISE Annual Conference & Expo 2025*.
     * <small>**Selected as one of three finalists for the Sustainable Development Best Track Paper Award.**</small>
 
 <br>
