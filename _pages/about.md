@@ -16,12 +16,12 @@ profile:
   .post-header { display: none; }
 
   a {
-    color: #2c3e50 !important; /* Deep Charcoal */
+    color: #0056b3 !important; /* Academic Blue */
     text-decoration: none;
   }
 
   a:hover {
-    color: #1a252f !important; /* 마우스 올렸을 때 조금 더 진한 색 */
+    color: #004494 !important; /* 마우스 올렸을 때 조금 더 진한 파란색 */
     text-decoration: underline;
   }
 </style>
