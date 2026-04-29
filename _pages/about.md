@@ -80,5 +80,15 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
     * <small>*Awarded for ranking 1st in the department.*</small>
 * **Full Academic Excellence Scholarship**, Chung-Ang University, 2018
     * <small>*Awarded for ranking 1st in the department.*</small>
+* **Grand Prize in Winter Internship Program Contest**, Chung-Ang University, 2018
+    * <small>*Awarded for ranking 1st in the Mechanical Engineering Short Term Research Program (MESTER) for developing localized haptic-feedback button prototypes.*</small>
+
+<br>
+
+## Patents & Books
+
+* S. Kim and **Jaehyuk Kim** (2021). "Big data analysis detailed process and method of FOM analysis module in smart factory FOMs Package", South Korea, *Patent No. 10-2021-0052334*.
+* S. Kim and **Jaehyuk Kim** (2020). "Smart Factory FOMs Package and Method for Smart Manufacturing Innovation", South Korea, *Patent No. 10-2020-0032342*.
+* S. Lee, K. Roh, S. Kim, and **Jaehyuk Kim** (2020). *Site Control of Smart Manufacturing*, South Korea, ISBN: 978-89-6345-295-1-13320.
 
 </div>
