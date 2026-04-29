@@ -14,6 +14,16 @@ profile:
 <style>
   /* 상단 기본 제목 영역을 숨깁니다 */
   .post-header { display: none; }
+
+  a {
+    color: #0056b3 !important; /* Academic Blue */
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #004494 !important; /* 마우스 올렸을 때 조금 더 진한 파란색 */
+    text-decoration: underline;
+  }
 </style>
 
 <div style="display: block; overflow: hidden; padding-left: 30px;" markdown="1">
