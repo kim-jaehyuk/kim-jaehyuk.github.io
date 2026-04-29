@@ -76,6 +76,11 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 * **Full Academic Excellence Scholarship**, Chung-Ang University, 2019<br>&nbsp;&nbsp;&nbsp;&nbsp;<small>*Awarded for ranking 1st in the department.*</small>
 * **Full Academic Excellence Scholarship**, Chung-Ang University, 2018<br>&nbsp;&nbsp;&nbsp;&nbsp;<small>*Awarded for ranking 1st in the department.*</small>
 * **Grand Prize in Winter Internship Program Contest**, Chung-Ang University, 2018<br>&nbsp;&nbsp;&nbsp;&nbsp;<small>*Awarded for ranking 1st in the Mechanical Engineering Short Term Research Program (MESTER) for developing localized haptic-feedback button prototypes.*</small>
+* **Edward P. Fitts Fellowship**, Dept. of ISE, NCSU, 2023<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.85em; color: #666;">*Highly competitive, fully funded fellowship for academic excellence and research potential.*</span>
+* **Edward P. Fitts Fellowship**, Dept. of ISE, NCSU, 2022<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.85em; color: #666;">*Highly competitive, fully funded fellowship for academic excellence and research potential.*</span>
+* **Full Academic Excellence Scholarship**, Chung-Ang University, 2019<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.85em; color: #666;">*Awarded for ranking 1st in the department.*</span>
+* **Full Academic Excellence Scholarship**, Chung-Ang University, 2018<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.85em; color: #666;">*Awarded for ranking 1st in the department.*</span>
+* **Grand Prize in Winter Internship Program Contest**, Chung-Ang University, 2018<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 0.85em; color: #666;">*Awarded for ranking 1st in the Mechanical Engineering Short Term Research Program (MESTER) for developing localized haptic-feedback button prototypes.*</span>
 
 <br>
 
